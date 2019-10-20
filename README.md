@@ -11,3 +11,6 @@ think are interesting.
   gets the right result doesn't mean it is correct.
 - [Color Spaces](https://ciechanow.ski/color-spaces/) -
   Describes color spaces and how they interact with RGB encoding.
+- [What nobody tells you about documentation](https://www.divio.com/blog/documentation/) -
+  A taxonomy of different types of (software) documentation and guidance on
+  organization documentation for a software project.
