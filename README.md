@@ -17,3 +17,5 @@ think are interesting.
 - [Systems design explains the world: volume 1](https://apenwarr.ca/log/20201227) -
   An essay about systems design and several different systems-level problems and
   how they apply to some real-world examples.
+- [Being Glue](https://noidea.dog/glue) -
+  A talk about glue work, career progression, and doing visible, technical work.
