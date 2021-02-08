@@ -14,3 +14,6 @@ think are interesting.
 - [What nobody tells you about documentation](https://www.divio.com/blog/documentation/) -
   A taxonomy of different types of (software) documentation and guidance on
   organization documentation for a software project.
+- [Systems design explains the world: volume 1](https://apenwarr.ca/log/20201227) -
+  An essay about systems design and several different systems-level problems and
+  how they apply to some real-world examples.
