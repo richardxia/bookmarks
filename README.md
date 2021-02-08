@@ -19,3 +19,7 @@ think are interesting.
   how they apply to some real-world examples.
 - [Being Glue](https://noidea.dog/glue) -
   A talk about glue work, career progression, and doing visible, technical work.
+- [Why inheritance never made sense](https://www.sicpers.info/2018/03/why-inheritance-never-made-any-sense/) -
+  A description of three different kinds of inheritance and why they are
+  incompatible with each other, explaining why overuse of inheritance causes
+  issues.
